@@ -2,7 +2,7 @@
 
 This repository contains the project done as a part of CS747: Foundations of Intelligent and Learning Agents at IIT Bombay in Autumn 2022. 
 
-I have employed Linear Function Approximation for approximating the action-value function in this Control Problem. To find the best weights for the approximate action-value function, I have used semi-gradient descent in conjunction with SARSA control algorithm. Finally, based on the approximate action-value function, we will take the optimal action using ε-greedy approaches.
+I have employed **Linear Function Approximation** for approximating the action-value function in this Control Problem. To find the best weights for the approximate action-value function, I have used **semi-gradient descent** in conjunction with **SARSA control algorithm**. Finally, based on the approximate action-value function, we will take the optimal action using **ε-greedy approaches**.
 
 ## Problem Statement
 
